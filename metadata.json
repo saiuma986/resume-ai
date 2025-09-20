@@ -1,0 +1,7 @@
+{
+  "name": "NextHire",
+  "description": "NextHire: An AI-powered application to automate the matching of resumes to job descriptions, providing a relevance score, skill analysis, and personalized feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
